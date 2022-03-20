@@ -47,10 +47,18 @@ cin>>n;
 passArray(ar,n);
 return 0;
 }
-OUTPUT:
-Enter two values for call by value & refrence 1 2 Addition through pass by value is 3
-Swapping through pass by value 2 1 Pass by values 12
-Addition through pass by reference is 3 Swapping through pass by value 2 1
-Enter required no. of elements for passing array 3
-Enter 1 element 7 Enter 2 element 8
-Enter 3 element 9 Sum of given array is 24
+
+
+output2:
+Enter two values for call by value & refrence 2 3
+Addition through pass by value is 5
+Swapping through pass by value 3 2
+Pass by values 23
+Addition through pass by reference is 5
+Swapping through pass by value 3 2
+Enter required no. of elements for passing array
+3
+Enter 1 element 4
+Enter 2 element 5
+Enter 3 element 6
+Sum of given array is 15
