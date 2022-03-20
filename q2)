@@ -101,3 +101,23 @@ cin>>ch;
 check(ch);
 return 0;
 } 
+
+Enter 1 String Copy
+
+2 String n copy
+3 String Concatenation
+4 String n concatenation 
+1
+Enter a word/sentence 
+this is KRP
+The copied sentence is this is KRP
+Enter 1 String Copy
+2 String n copy
+3 String Concatenation
+4 String n 
+concatenation 2
+Enter a 
+word/sentence KRP
+Enter limit 1
+String after n copy 
+is K
